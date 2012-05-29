@@ -1,0 +1,11 @@
+a8fcc169b1050e198bf2cea3aa4923ad *DESCRIPTION
+43b26e577384541c8f828f5792618f5e *NAMESPACE
+64d92dd09e2310cf7e352e544b5597ab *R/infutil.R
+58418575a06df2732f8abc1089c8319d *man/Jeffreys.Rd
+09184da4e884244f8579bf419535b234 *man/infutil-package.Rd
+253325dfdc8d52236f22baef6860b95a *man/iota.Rd
+4b982bfc20d038e2cad4885b2c950f10 *man/iota.c.Rd
+ab7843ac2587191b0b7d45837abe1e4f *man/iota.l.Rd
+41d19ea376c09a8ed93fd9114c308ecd *man/iota.u.Rd
+c5acd990bf5d57e9176d7fa96b03d7ba *man/nmru.Rd
+4718504fc7389f2914c83417875a6f1e *man/rJeffreys.Rd

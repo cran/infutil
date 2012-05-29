@@ -1,0 +1,2 @@
+import(ltm)
+export(Jeffreys, rJeffreys, iota, iota.c, iota.l, iota.u, nmru)
