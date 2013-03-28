@@ -1,9 +1,9 @@
 Package: infutil
-Version: 0.9
-Date: 2012-05-29
+Version: 1.0
+Date: 2013-03-28
 Title: Information Utility
-Authors@R: person(given="Kristian", family="Markon", middle="E.", role
-        = c("aut", "cre"), email = "kristian-markon@uiowa.edu")
+Authors@R: person(given="Kristian", family="Markon", role = c("aut",
+        "cre"), email = "kristian-markon@uiowa.edu")
 Author: Kristian E. Markon
 Maintainer: Kristian E. Markon <kristian-markon@uiowa.edu>
 Depends: ltm
@@ -13,6 +13,7 @@ Description: Calculation of information utility (i.e., Lindley
 License: GPL (>= 2)
 URL: http://www.r-project.org,
         http://www.psychology.uiowa.edu/faculty/markon
-Packaged: 2012-07-21 01:37:11 UTC; merkri
+Packaged: 2013-04-02 01:40:07 UTC; merkri
+NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2012-07-22 06:20:18
+Date/Publication: 2013-04-02 07:30:11

@@ -23,7 +23,7 @@ Functions are available for calculating the Jeffreys prior for IRT models, calcu
 Kristian E. Markon
 }
 \references{
-Markon, K. E. (in press). Information utility: Quantifying the total psychometric information provided by a measure. Psychological Methods.
+Markon, K. E. (2013). Information utility: Quantifying the total psychometric information provided by a measure. Psychological Methods, 18, 15-35. doi: 10.1037/a0030638..
 }
 \keyword{ distributions }
 \keyword{ models }

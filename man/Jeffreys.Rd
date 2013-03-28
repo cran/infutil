@@ -45,7 +45,7 @@ If \option{return="prior"}, the default, a function taking a latent trait value 
 
 }
 \references{
-Markon, K. E. (in press). Information utility: Quantifying the total psychometric information provided by a measure. Psychological Methods.
+Markon, K. E. (2013). Information utility: Quantifying the total psychometric information provided by a measure. Psychological Methods, 18, 15-35. doi: 10.1037/a0030638..
 }
 \author{
 Kristian E. Markon

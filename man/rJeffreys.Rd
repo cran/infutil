@@ -34,7 +34,7 @@ A vector of values distributed according to the density specified by the \option
 \references{
 Robert, C. P., & Casella, G. (1999). Monte Carlo statistical methods. New York: Springer.
 	
-Markon, K. E. (in press). Information utility: Quantifying the total psychometric information provided by a measure. Psychological Methods.
+Markon, K. E. (2013). Information utility: Quantifying the total psychometric information provided by a measure. Psychological Methods, 18, 15-35. doi: 10.1037/a0030638..
 }
 \author{
 Kristian E. Markon

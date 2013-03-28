@@ -26,7 +26,7 @@ If \code{x} is a vector, the function will return a vector of lower bounds.
 A lower bound to the Lindley information, or a vector of lower bounds for different sets of items. 
 }
 \references{
-Markon, K. E. (in press). Information utility: Quantifying the total psychometric information provided by a measure. Psychological Methods.
+Markon, K. E. (2013). Information utility: Quantifying the total psychometric information provided by a measure. Psychological Methods, 18, 15-35. doi: 10.1037/a0030638..
 }
 \author{
 Kristian E. Markon

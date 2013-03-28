@@ -55,7 +55,7 @@ A list with the following components:
 
 }
 \references{
-Markon, K. E. (in press). Information utility: Quantifying the total psychometric information provided by a measure. Psychological Methods.
+Markon, K. E. (2013). Information utility: Quantifying the total psychometric information provided by a measure. Psychological Methods, 18, 15-35. doi: 10.1037/a0030638..
 }
 \author{
 Kristian E. Markon
@@ -66,7 +66,7 @@ Kristian E. Markon
 }
 \examples{
 ltm.lsat <- ltm(LSAT~z1, IRT=FALSE)	
-iota.c.lsat <- iota.c(ltm.lsat, M=500)
+iota.c.lsat <- iota.c(ltm.lsat, M=100) # typically more Monte Carlo replications would be used
 iota.c.lsat
 
 }

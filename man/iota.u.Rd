@@ -29,7 +29,7 @@ Note that the range of integration may have to be changed; the integration funct
 The upper bound to the Lindley information; the entropy of the prior. 
 }
 \references{
-Markon, K. E. (in press). Information utility: Quantifying the total psychometric information provided by a measure. Psychological Methods.
+Markon, K. E. (2013). Information utility: Quantifying the total psychometric information provided by a measure. Psychological Methods, 18, 15-35. doi: 10.1037/a0030638..
 }
 \author{
 Kristian E. Markon
